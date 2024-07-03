@@ -1,0 +1,127 @@
+# Arquivos do sistema MacOS
+..
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Icone do macOS
+Icon
+._*
+
+# Thumbnails
+.TemporaryItems
+.Trashes
+.VolumeIcon.icns
+._VolumeIcon.icns
+.Spotlight-V100
+.apdisk
+
+# Arquivos de build do Xcode
+build/
+*.xcworkspace
+xcuserdata/
+DerivedData/
+*.xcuserstate
+
+# Arquivos de build gerados
+*.o
+*.obj
+*.so
+*.dylib
+*.dll
+*.exe
+*.class
+*.jar
+*.pyc
+*.pyo
+*.pdb
+*.lib
+*.a
+*.la
+*.lo
+*.lai
+*.mod
+*.Slo
+*.Plo
+*.o.d
+
+# Logs do Xcode
+*.xcactivitylog
+*.build/
+*.moved-aside/
+*.pbxuser
+*.mode1v3
+*.mode2v3
+*.perspectivev3
+*.pydevproject
+*.project
+*.sublime-project
+*.sublime-workspace
+*.idea/workspace.xml
+*.idea/tasks.xml
+*.idea/dictionaries
+.idea/vcs.xml
+*.idea/jsLibraryMappings.xml
+
+# Arquivos de lock
+# Arquivos de lock resultam de builds de diferentes plataformas usando
+# o mesmo diretório de origem
+# Padrões: http://www.gnu.org/software/libc/manual/html_node/File-Locks.html
+*lock*
+
+# Arquivos temporários
+# http://www.gnu.org/software/libc/manual/html_node/Temporary-Files.html
+*~
+
+# Arquivos patch
+*.diff
+*.patch
+
+# Diretório de build temporário do CMake
+CMakeFiles
+CMakeCache.txt
+CMakeScripts
+cmake_install.cmake
+install_manifest.txt
+
+# Makefile
+Makefile
+CMakeLists.txt.user
+
+# Arquivos de configuração do CLion
+.idea/
+
+# Binários de debug
+Debug/
+Debug*/
+
+# Binários de release
+Release/
+Release*/
+
+# Binários de distribuição
+Distribution/
+
+# Outras saídas de compilação
+out/
+*.log
+*.obj
+*.lib
+*.exp
+*.pdb
+
+# Configurações do JUCE
+.jucer
+
+# Configurações do projeto Xcode
+*.pbxproj
+*.xcworkspacedata
+
+# Configurações do projeto C++
+*.sln
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
+
+# Arquivos ocultos
+._*
